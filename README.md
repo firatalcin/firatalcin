@@ -15,10 +15,7 @@ class firatalcin:
         self.role = "Software Developer"
         self.location = "IST/TUR"
         self.knowledge_base = [
-            "Software Enginnering",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
+            "Software Engineering"      
             "Android",
             "Flutter",
             "Web"
