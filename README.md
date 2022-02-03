@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firatalcin" alt="firatalcin" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Flutter**
+- 🌱 I’m currently learning **.Net Core MVC, Java and Flutter**
 
 - 📫 How to reach me **firatalcin04@gmail.com**
 
